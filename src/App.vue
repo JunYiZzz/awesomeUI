@@ -4,6 +4,7 @@
             <ul>
                 <li><router-link to="/input">input</router-link></li>
                 <li><router-link to="/icon">icon</router-link></li>
+                <li><router-link to="/button">button</router-link></li>
             </ul>
         </nav>
         <router-view></router-view>

@@ -1,7 +1,8 @@
 <!--  -->
 <template>
   <div>
-      <aInput></aInput>
+      <Input style="width:200px;" ></Input>
+      <Input type="textarea"style="width:200px;" ></Input>
   </div>
 </template>
 

@@ -1,7 +1,7 @@
 <!--  -->
 <template>
   <div>
-      <aIcon type="ios-analytics-outline" size="50"></aIcon>
+      <Icon type="ios-analytics-outline" size="50" color="red" />
   </div>
 </template>
 <script>
@@ -18,4 +18,5 @@ export default {
 }
 </script>
 <style lang='less'>
+
 </style>
